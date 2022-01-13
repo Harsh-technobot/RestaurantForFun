@@ -1,0 +1,43 @@
+body{
+    background-color: maroon;
+}
+.navbar{
+    font-size: 1.8rem;
+    color: #e4443e;
+    margin: 0  ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 40px;
+}
+.carousel-inner{
+    margin-top: 40px;
+    margin-left:19%;
+    margin-right:25%;
+   height:500px;
+   width: 900px;
+   border-radius:20px;
+   opacity:90%;
+}
+.about p{ 
+    font-weight: 800;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:yellowgreen;
+    margin-top: 20px;
+    margin-left: 22%;
+    margin-right: 20%;
+    align-items: center;
+}
+.heading{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size:4rem;
+    margin-top: 20px;
+    margin-left:40%;
+    margin-right:40%;
+    align-content: center;
+    color: yellow;
+}
